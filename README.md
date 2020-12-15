@@ -26,3 +26,7 @@ My name is Dharmendra Vishwakarma. About me, I'm Highly technical, passionate, s
 - 💼 LinkedIn: https://www.linkedin.com/in/vdharam/
 - 😄 Pronouns: JAVA
 - ⚡ Fun fact: Technology lover and explorer
+
+<a href="https://github.com/dharm18/dharm18">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dharm18&theme=radical"/>
+</a>
