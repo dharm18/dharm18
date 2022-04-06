@@ -24,7 +24,7 @@ My name is Dharmendra Vishwakarma. About me, I'm Highly technical, passionate, s
 - 📫 How to reach me: https://www.vdharam.com/
 - 📫 If you want to refer my projects developed as part of my masters, please go to: https://www.vdharam.com/projects/
 - 💼 LinkedIn: https://www.linkedin.com/in/vdharam/
-- 😄 Pronouns: JAVA
+- 😄 Pronouns: JAVA, SPRING BOOT, MICROSERVIES, SYSTEM DESIGN
 - ⚡ Fun fact: Technology lover and explorer
 
 <a href="https://github.com/dharm18/dharm18">
