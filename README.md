@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dharmendra Vishwakarma. About me, I'm Highly technical, passionate, self-motivated and talented software engineer, have been working as a software developer building enterprise applications with involvement right from the requirement gathering to deployment phase in the software development cycle in the agile fashion.
+My name is Dharmendra Vishwakarma. About me, I'm Highly technical, passionate and self-motivated software engineer, have been working as a software developer building enterprise applications with involvement right from the requirement gathering to deployment phase in the software development cycle in the agile fashion.
 
 - 🔭 I’m currently leading a passionate team of developers and QAs working towards building a data compliance fabric platform.
 - 🌱 I'm life long student and still learning  - Microservices based cloud native applications, Docker, Kubernetes and Azure Cloud from last five years. 
