@@ -20,7 +20,7 @@ My name is Dharmendra Vishwakarma. About me, I'm Highly technical, passionate an
 - 🔭 I’m currently leading a passionate team of developers and QAs working towards building a data compliance fabric platform.
 - 🌱 I'm life long student and still learning  - Microservices based cloud native applications, Docker, Kubernetes and Azure Cloud from last five years. 
 - 👯 I’m looking to collaborate on Software Development related Open-source projects.
-- 💬 Ask me about Software Development, JAVA, Cloud, Data Analysis.
+- 💬 Ask me about Software Development, JAVA, Cloud, Data Analysis, Data Structures and Algorithms.
 - 📫 How to reach me: https://www.vdharam.com/
 - 📫 If you want to refer my projects developed as part of my masters, please go to: https://www.vdharam.com/projects/
 - 💼 LinkedIn: https://www.linkedin.com/in/vdharam/
