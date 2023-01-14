@@ -22,7 +22,7 @@ My name is Dharmendra Vishwakarma. About me, I'm passionate and self-motivated s
 - 👯 I’m looking to collaborate on Software Development related Open-source projects.
 - 💬 Ask me about Software Development, JAVA, Cloud, Data Analysis, Data Structures and Algorithms.
 - 📫 How to reach me: https://www.vdharam.com/
-- 📫 If you want to refer my projects developed as part of my masters, please go to: https://www.vdharam.com/projects/
+- 📫 If you want to refer my masters projects developed, please go to: https://www.vdharam.com/projects/
 - 💼 LinkedIn: https://www.linkedin.com/in/vdharam/
 - 😄 Pronouns: JAVA, SPRING BOOT, MICROSERVIES, SYSTEM DESIGN, DATA ANALYTICS.
 - ⚡ Fun fact: Technology lover and explorer.
