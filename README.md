@@ -28,5 +28,5 @@ My name is Dharmendra Vishwakarma. About me, I'm passionate and self-motivated s
 - ⚡ Fun fact: Technology lover and explorer.
 
 <a href="https://github.com/dharm18/dharm18">
-  <img align="left" src="https://github-readme-stats-ruby-one.vercel.app/api?username=dharm18&theme=radical&count_private=true&show_icons=true&count_private=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dharm18&theme=radical&count_private=true&show_icons=true&count_private=true"/>
 </a>
