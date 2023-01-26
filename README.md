@@ -30,3 +30,12 @@ My name is Dharmendra Vishwakarma. About me, I'm passionate and self-motivated s
 <a href="https://github.com/dharm18/dharm18">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dharm18&theme=radical&count_private=true&show_icons=true&count_private=true"/>
 </a>
+
+<!--![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif) -->
+
+<!--<a href=#><img src="contributions.svg"></a> -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dharm18/count.svg" />
+</p>
