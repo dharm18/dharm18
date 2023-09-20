@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Dharmendra Vishwakarma. About me, I'm passionate and self-motivated software engineer, have been working as a software engineer building enterprise applications with involvement right from the requirement gathering to deployment phase in the software development cycle in the agile fashion.
+My name is Dharmendra. I'm passionate and self-motivated software engineer, have been working as a software engineer building enterprise applications with involvement right from the requirement gathering to deployment phase in the software development cycle in the agile fashion.
 
 - 🔭 I’m currently leading a passionate team of developers and QAs working towards building a data compliance fabric platform.
 - 🌱 I'm life long student and still learning  - Microservices based cloud native applications, Docker, Kubernetes and Azure Cloud from last five years. 
 - 👯 I’m looking to collaborate on Software Development related Open-source projects.
-- 💬 Ask me about Software Development, JAVA, Cloud, Data Analysis, Data Structures and Algorithms.
+- 💬 Ask me about Software Development, JAVA, Cloud, Data Analysis, Data Structures and Algorithms, AI and Machine Learning.
 - 📫 How to reach me: https://www.vdharam.com/
 - 📫 If you want to refer my masters projects developed, please go to: https://www.vdharam.com/projects/
 - 💼 LinkedIn: https://www.linkedin.com/in/vdharam/
